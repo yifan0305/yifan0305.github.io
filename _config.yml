@@ -19,7 +19,7 @@ newPRWelcomeComment: Welcome! Congrats on your first pull request to the Archite
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 firstPRMergeComment: "Congrats on getting your first pull request to the Architect theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/architect/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/architect/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: yifan0305's home
