@@ -1,0 +1,6 @@
+nav:
+  - 简介 : README.md
+  - 动态规划 :
+    - 记忆化搜索 : text/dp/memory-search.md
+  - 数学 :
+    - 扩展欧几里得与同余方程 : text/math/exgcd.md
